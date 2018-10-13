@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c9bd030efb35441cb931626e4b5eb42e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Cadet NF
+  fontNames:
+  - Space Cadet NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bdb4650d5e7c145d98813192acef9874, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
